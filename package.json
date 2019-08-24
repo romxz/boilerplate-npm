@@ -13,5 +13,10 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+  "author": "Ruben Romero",
+  "description": "A project to practice managing packages with npm",
+  "keywords": ["freecodecamp", "npm", "node"],
+  "license": "MIT",
+  "version": "0.1.0"
 }
